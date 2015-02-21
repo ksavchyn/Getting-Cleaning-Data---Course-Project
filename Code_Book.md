@@ -15,7 +15,7 @@ An identifier of the subject who carried out the experiment. There were 30 subje
         
 3-66. Measurement Mean (Continuous Variable):
 
-These 64 variables have been calculated by extracting all the mean and standard deviation measurements from original features.txt, where such measurements were interpreted to be ones that included 'mean()' or 'std()' within the variable name. The mean for each of these measurements was taken for each combination of Activity_Type and Subject_ID. Their names are consistent with the names in features.txt. 
+These 64 variables have been calculated by extracting all the mean and standard deviation measurements from original features.txt, where such measurements were interpreted to be ones that included 'mean()' or 'std()' within the variable name. The mean for each of these measurements was taken for each combination of Activity_Type and Subject_ID. Their names are consistent with the names in features.txt. Because the original measurements have been normalized, these values do not have units.
 	
 =========================================================================================
 #### The table below shows the number and the name of each variable in the data set:
