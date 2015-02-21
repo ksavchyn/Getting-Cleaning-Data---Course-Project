@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 The script in run_analysis.R utilizes the data which can be found at
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
@@ -31,7 +30,3 @@ measurements from the original sets of data, and which use descriptive activity 
 10. The All_Data from step 9 is grouped by Activity_Type and Subject_ID, respectively, and is renamed Tidy_Set.
 11. The data in step 10 is summarized by the average applied to each combination of Activity_Type and Subject_ID, and Tidy_Set is updated as this new summary table.
 12. The new Tidy_Set table is written out using write.table() which created a file titled "Tidy_Data_Set.txt"
-=======
-# Getting-Cleaning-Data---Course-Project
-This is the repo for the course project for the Getting and Cleaning Data course.
->>>>>>> be272f79c488664751a6897d67743d2e47627167
