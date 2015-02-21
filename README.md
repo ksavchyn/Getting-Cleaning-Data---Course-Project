@@ -2,6 +2,7 @@ The script in run_analysis.R utilizes the data which can be found at
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 The following set of steps describes how the code in run_analysis.R works:
+
 1. The data.table, reshape2, dplyr packages are loaded
 
 2. Each of the following sets of data which are included in the UCI HAR Dataset (as per the link above) are read in using read.table() and given descriptive variable names:
